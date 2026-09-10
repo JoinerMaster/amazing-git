@@ -1,3 +1,3 @@
-const a = "hasta luego";
+const a = "hasta luego!!";
 
 console.log(a);
